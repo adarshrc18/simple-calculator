@@ -3,3 +3,5 @@ b = int(input("Enter second number: "))
 
 print("Sum:", a + b)
 print("diff:",a-b)
+
+print("product ")
